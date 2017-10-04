@@ -1,0 +1,9 @@
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\obj\Debug\Task3.Task3FormCoordXY.resources
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\obj\Debug\Task3.csproj.GenerateResource.Cache
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\bin\Debug\Task3.exe.config
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\bin\Debug\Task3.exe
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\bin\Debug\Task3.pdb
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\obj\Debug\Task3.exe
+C:\Users\УважановЕ.CORP\source\repos\WindowsFormsApp5\Task3\obj\Debug\Task3.pdb
